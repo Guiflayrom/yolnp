@@ -1,0 +1,8 @@
+python_env/
+__pycache__/
+*.pyc
+*.bat
+*.sqlite3
+env/
+.env
+uploads/
