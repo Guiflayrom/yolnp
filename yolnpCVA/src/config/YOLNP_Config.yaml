@@ -1,0 +1,20 @@
+Env:
+  device: cpu
+  
+Yolo7ModelConfig:
+  path: 'src\infrastructure\computer_vision\models\model.pt'
+  data_size_infer: 416
+  classes: ['plate']
+  nms_max_overlap: 1
+  config_thresh: 0.45
+  config_iou_thresh: 0.45
+
+DeepSortModelConfig:
+  max_cosine_distance: 0.4
+  nn_budget:
+  max_age: 1
+  min_hits: 3
+  config_iou_thresh: 0.3
+  
+PaddleOCR:
+  repeat_define_rec: 5

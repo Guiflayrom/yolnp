@@ -1,0 +1,7 @@
+test_resource/
+__pycache__/
+*.jpg
+.env
+storage/threads/*
+storage/cameras/*
+
