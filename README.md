@@ -5,7 +5,7 @@ YOLNP - You Only Look Number Plates - It is a full stack project created, ideali
 YOLNP was developed with the intention of being useful for personal surveillance and data science for physical companies that are located on highways.
 
 # Screens
-
+![](https://i.imgur.com/YhQN8ST.png)
 ### Dashboard
 ![](https://github.com/Guiflayrom/yolnp/blob/master/resource/dashboard.png)
 ### All Plates Detected
