@@ -1,5 +1,7 @@
 # YOLNP - You Only Look Number Plates
 
+Buy me a coffee :D -> https://www.buymeacoffee.com/guiflayrom
+
 YOLNP - You Only Look Number Plates - It is a full stack project created, idealized, designed, codified by the owner of this repository. YOLNP was my first project since I decided to create my Github account. It was started in 2020, when I was 15 years old, and finally finished it now at my 18 years old, so I have a fondness for everything it has been through, and now it's time to leave it opensource ;)
 
 YOLNP was developed with the intention of being useful for personal surveillance and data science for physical companies that are located on highways.
